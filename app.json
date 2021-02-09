@@ -4,7 +4,7 @@
   "env": {
     "METHOD": {
       "description": "加密算法",
-      "value": "aes-256-cfb"
+      "value": "chacha20-ietf-poly1305"
     },
     "KEY": {
       "description": "app-password",
